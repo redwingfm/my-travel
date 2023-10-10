@@ -1,0 +1,21 @@
+{
+  "name": "@redwingfm/my-travel",
+  "version": "0.1.1",
+  "description": "Best Travel website based on YouTube Tutorial by Bedimcode",
+  "main": "main.js",
+  "scripts": {
+    "watch": "gulp watch"
+  },
+  "keywords": [
+    "travel",
+    "html",
+    "css",
+    "javascript"
+  ],
+  "author": "Pavel Tereshchenkov <redwing.fm@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.29.3",
+    "gulp": "^4.0.2"
+  }
+}
